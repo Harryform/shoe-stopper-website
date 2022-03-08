@@ -1,1 +1,1 @@
-web: gunicorn app:shoe-stopper
+web: gunicorn app:store
