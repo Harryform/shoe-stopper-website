@@ -11,16 +11,21 @@ cx_Oracle==8.3.0
 defusedxml==0.7.1
 dl==0.1.0
 elementtree==1.2.6-20050316
+eventlet==0.33.0
 feedparser==6.0.8
+gevent==21.12.0
+greenlet==1.1.2
 HTMLParser==0.0.2
 hypothesis==6.39.3
 importlib_metadata==4.11.2
 importlib_resources==5.4.0
+inotify==0.2.10
 ipdb==0.13.9
 ipython==8.1.1
 ipywidgets==7.6.5
 jnius==1.1.0
 keyring==23.5.0
+kid==0.9.6
 lockfile==0.12.2
 lxml==4.8.0
 mock==4.0.3
@@ -28,6 +33,7 @@ MySQL-python==1.2.5
 olefile==0.46
 ordereddict==1.1
 Parser==0.1
+PasteScript==3.2.1
 pathlib2==2.3.7.post1
 protobuf==3.19.4
 psycopg2==2.9.3
@@ -47,6 +53,7 @@ PyYAML==6.0
 railroad==0.5.0
 recommonmark==0.7.1
 runtests==0.0.28
+setproctitle==1.2.2
 sets==0.3.2
 simplejson==3.17.6
 smartypants==2.0.1
