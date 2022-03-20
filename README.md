@@ -7,7 +7,7 @@ Once you get to the checkout page you can fill out your information for shipping
 with Paypal, Venmo or your credit/debit card. <br/>
 
 <h2>Link</h2>
-<a href="https://shoe-stopper.herokuapp.com/" target="_blank"></a>
+"https://shoe-stopper.herokuapp.com/"
 <h2>Tools Used:</h2>
 Python <br/>
 Django <br/>
